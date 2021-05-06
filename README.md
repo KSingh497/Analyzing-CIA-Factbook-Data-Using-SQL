@@ -18,7 +18,7 @@ The database file in this project contains a selection of these data points. We 
 
 Tasks we will complete in this excercise:
 
-Connect jupyter notebook to the CIA factbook database
-Explore database
-Explore indivdual tables in the database
-Generate statistics from the "facts" table
+1. Connect jupyter notebook to the CIA factbook database, 
+2. Explore database, 
+3. Explore indivdual tables in the database, 
+4. Generate statistics from the "facts" table
